@@ -1,0 +1,61 @@
+As principais vantagens de aprender Python
+Se você planeja iniciar sua carreira em Python e conhecer as habilidades relacionadas a essa linguagem, esse é o momento certo para começar. Existem diversos motivos para aprender Python como a primeira linguagem de programação, alguns deles são:
+
+1. Simples e fácil de aprender
+O Python é extremamente simples e fácil de aprender, ele se parece muito com a língua inglesa. O que contribui para a sua simplicidade é:
+
+Fonte livre e aberta
+Alto nível
+Interpretada
+Grande comunidade
+Além disso, no Python, você não precisa lidar com a sintaxe complexa. Se você tem que programar a frase ‘olá mundo’, em Java é preciso escrever acima de três linhas de código enquanto que em Python apenas uma linha é suficiente. A simplicidade do código faz do Python a melhor linguagem para iniciantes.
+
+2. Portátil e Extensível
+As propriedades portáteis ​​e extensíveis do Python permitem que você execute operações de idioma cruzado sem problemas. O Python é suportado pela maioria das plataformas presentes no mercado hoje, desde o Windows, Linux, Macintosh, Solaris, Playstation e entre outros.
+
+Os recursos de extensibilidade do Python permitem integrar componentes Java e .NET. Você também pode invocar bibliotecas C e C ++.
+
+3. Desenvolvimento Web
+O Python tem uma matriz de frameworks para desenvolvimento de websites, os mais populares são: Django, Flask, e Pylons. Já que essas estruturas são escritas em Python, essa é a principal razão que torna o código muito mais rápido e estável.
+
+Você também pode realizar a extração da web, onde pode buscar detalhes de qualquer outro site. Você ficaria impressionado de saber que sites como o Instagram, Pinterest e muitos outros são construídos apenas nesses frameworks.
+
+4. Inteligência Artificial
+A Inteligência Artificial é o próximo grande desenvolvimento no mundo da tecnologia. Você pode realmente fazer uma máquina imitar o cérebro humano que tem o poder de pensar, analisar e tomar decisões.
+
+Bibliotecas como Keras e TensorFlow trazem a funcionalidade de aprendizado de máquina para o mix. Dão a capacidade de aprender sem ser explicitamente programado. Além disso, temos bibliotecas como o openCv que ajuda a visão computacional ou o reconhecimento de imagens.
+
+5. Computação Gráfica
+Python é amplamente utilizado em projetos pequenos e grandes, online ou offline. Ele é usado para construir aplicativos GUI e de desktop. Ele usa a biblioteca “Tkinter” para fornecer uma maneira rápida e fácil de criar aplicativos.
+
+Ele também é usado no desenvolvimento de jogos, onde você pode escrever a lógica de usar um módulo “pygame”, que também é executado em dispositivos Android.
+
+6. Enquadramento de Testes
+Realizar testes pode ser uma tarefa tediosa e o Python é o impulsionador para facilitar isso, então todo testador deve saber dessa linguagem.
+
+O Python tem muitas estruturas de teste integrados, que abrangem a depuração e fluxos de trabalho mais rápidos. Existem muitas ferramentas e módulos para facilitar as coisas, como o Selenium e o Splinter. Ele também suporta testes com multi-plataforma e cross-browser com frameworks como PyTest e Robot Framework.
+
+7. Big Data
+O Python é amplamente usado para Big Data, pois você pode processá-lo facilmente. Além de lidar com muitas dificuldades de dados e suportar computação paralela, onde você pode usar o Python para o Hadoop também.
+
+Com Python, você tem uma biblioteca chamada “Pydoop” e pode escrever um programa MapReduce em Python e processar dados presentes no cluster HDFS. Como também existem outras bibliotecas, como “Dask” e “Pyspark”, para processamento de Big Data.
+
+8. Scripting e Automação
+Muitas pessoas só sabem que o Python é uma linguagem de programação, mas o Python também pode ser usado como linguagem de script, onde:
+
+O código é escrito na forma de scripts e executado
+A máquina lê e interpreta o código
+A verificação de erros é feita durante o tempo de execução
+Depois que o código é verificado, ele pode ser usado várias vezes. Então você pode automatizar certas tarefas em um programa.
+
+9. Ciência de Dados
+Python é a linguagem líder de muitos cientistas de dados. Durante anos, acadêmicos e pesquisadores particulares estavam usando a linguagem MATLAB para pesquisa científica, mas tudo começou a mudar com o lançamento de mecanismos numéricos do Python, como “Numpy” e “Pandas”.
+
+O Python também lida com dados tabulares, matriciais e estatísticos e até mesmo visualizá-os com bibliotecas populares como “Matplotlib” e “Seaborn”.
+
+10. Popularidade e altos salários
+Os engenheiros de Python têm alguns dos maiores salários do setor. Além disso, o Python teve um aumento de popularidade no último ano.
+
+Dados indicam um crescimento diferenciado do Python em relação à outras linguagens populares (como Javascript, Java, C++ e PHP) nos anos recentes e consideram especificamente o comportamento dos usuários do Stack Overflow. Em 2012, o uso do Python estava abaixo de outras 5 linguagens mais populares, mas hoje ele é a quarta linguagem de programação mais usada.
+
+Depois de todas essas vantagens, não dá pra negar que aprender Python é essencial para sua carreira de desenvolvedor. O melhor momento para começar é agora.
